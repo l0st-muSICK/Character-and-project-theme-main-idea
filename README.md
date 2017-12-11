@@ -1,2 +1,1 @@
-# Character-and-project-theme-main-idea
-creating from point 0 ideal stage persona for music, to maximize shock walue and comercial potential, who is that guy
+this hutub repo is for all the materials that help create perfect rapstar , no codding right now but latter things like big data crawlers and algorythms for analising music will be used and presented so u too can see how far we can go with just logic and some music basic theroy shit maaaaan ;) 
